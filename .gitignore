@@ -1,0 +1,4 @@
+*.py[co]
+*~
+/vendor/
+__pycache__/
